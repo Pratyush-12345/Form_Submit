@@ -5,16 +5,16 @@ url = 'https://docs.google.com/forms/d/e/1FAIpQLSdUCd3UWQ3VOgeg0ZzNeT-xzNawU8AJ7
 
 # Form data (adjust field names as per your form)
 form_data = {
-    'entry.2034846182': 'Pratyush Kumar',
-    'entry.334915649': '9693526496',
-    'entry.571107327': 'kpratyush977@gmail.com',
-    'entry.163447158': 'Gulab Bagh Market Opposite Hathwa Market ThakurBari Road Patna-4',
-    'entry.1632541295': '800004',
-    'entry.148364949': 'Male',
-    'entry.219783874': 'GNFPYC',
-    'entry.1848012157_year': '2002',
-    'entry.1848012157_month': '04',
-    'entry.1848012157_day': '28',
+    'entry.2034846182': '',
+    'entry.334915649': '',
+    'entry.571107327': '',
+    'entry.163447158': '',
+    'entry.1632541295': '',
+    'entry.148364949': '',
+    'entry.219783874': '',
+    'entry.1848012157_year': '',
+    'entry.1848012157_month': '',
+    'entry.1848012157_day': '',
 }
 
 try:
